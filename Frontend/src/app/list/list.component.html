@@ -1,0 +1,6 @@
+<ng-container *ngIf="employees">
+  <div *ngFor="let employee of employees" class="row">
+    <div class="col">{{ employee.name }}</div>
+    <app-tippek class="overflow-auto" [tips]="employee.tips"></app-tippek>
+  </div>
+</ng-container>

@@ -1,0 +1,12 @@
+C:\Users\borbe\source\repos\Gyakorlas\LottoAdat\bin\Debug\net6.0\LottoAdat.deps.json
+C:\Users\borbe\source\repos\Gyakorlas\LottoAdat\bin\Debug\net6.0\LottoAdat.dll
+C:\Users\borbe\source\repos\Gyakorlas\LottoAdat\bin\Debug\net6.0\LottoAdat.pdb
+C:\Users\borbe\source\repos\Gyakorlas\LottoAdat\obj\Debug\net6.0\LottoAdat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borbe\source\repos\Gyakorlas\LottoAdat\obj\Debug\net6.0\LottoAdat.AssemblyInfoInputs.cache
+C:\Users\borbe\source\repos\Gyakorlas\LottoAdat\obj\Debug\net6.0\LottoAdat.AssemblyInfo.cs
+C:\Users\borbe\source\repos\Gyakorlas\LottoAdat\obj\Debug\net6.0\LottoAdat.csproj.CoreCompileInputs.cache
+C:\Users\borbe\source\repos\Gyakorlas\LottoAdat\obj\Debug\net6.0\LottoAdat.dll
+C:\Users\borbe\source\repos\Gyakorlas\LottoAdat\obj\Debug\net6.0\refint\LottoAdat.dll
+C:\Users\borbe\source\repos\Gyakorlas\LottoAdat\obj\Debug\net6.0\LottoAdat.pdb
+C:\Users\borbe\source\repos\Gyakorlas\LottoAdat\obj\Debug\net6.0\ref\LottoAdat.dll
+C:\Users\borbe\source\repos\Gyakorlas\LottoAdat\obj\Debug\net6.0\LottoAdat.csproj.AssemblyReference.cache
